@@ -1,5 +1,9 @@
 # desafio-backend-fluig
 
+Deve configurar o path do Java 11 na IDE a qual for executar
+Deve possuir maven instalado
+Executar 'mvn clean install'
+
 ENDPOINT POST: Salvar carro
 
 http://localhost:8080/carro
