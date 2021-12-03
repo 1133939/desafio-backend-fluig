@@ -1,7 +1,9 @@
 # desafio-backend-fluig
 
 ENDPOINT POST: Salvar carro
+
 http://localhost:8080/carro
+
 {
 "nome" : "NOME 1",
 "marca" : "MARCA 1",
@@ -11,5 +13,8 @@ http://localhost:8080/carro
 "consumoMedioKmLitroRodovia" : "1.52"
 }
 
+----------------------------------------------------------------------------------------------------------
+
 ENDPOINT GET: Ranking por menor consumo de combustível
+
 http://localhost:8080/carro/teste?precoGasolina=2.55&totalKmRodadoCidade=12.31&totalKmRodadoRodovias=36.55
