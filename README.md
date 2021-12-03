@@ -17,4 +17,4 @@ http://localhost:8080/carro
 
 ENDPOINT GET: Ranking por menor consumo de combustível
 
-http://localhost:8080/carro/teste?precoGasolina=2.55&totalKmRodadoCidade=12.31&totalKmRodadoRodovias=36.55
+http://localhost:8080/carro/ranking-comparativo-combustivel?precoGasolina=5&totalKmRodadoCidade=22&totalKmRodadoRodovias=23.33
